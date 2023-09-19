@@ -3,6 +3,7 @@ https://www.xppen.tw/download-534.html
 
 MediBang Paint
 https://medibangpaint.com/zh_TW/faq/1022/
+https://www.youtube.com/watch?v=IrbFQ9JIKv8
 
 Krita
 https://krita.org/zh-tw/download_zh-tw/krita-desktop_zh-tw/
