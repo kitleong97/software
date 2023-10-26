@@ -1,5 +1,5 @@
 firefox
-  https://www.mozilla.org/zh-TW/firefox/new/
+   https://www.mozilla.org/zh-TW/firefox/new/
 
 opera
   https://www.opera.com/zh-cn
