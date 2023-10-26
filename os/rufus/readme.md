@@ -48,15 +48,21 @@ fat32 (suggest)/ os installer auto default/ vfat
 Max size: 512MB/ 550MB (suggest 550MB)  
 (why 550MB because of avoid MiB/MB confusion and accidentally creating FAT16)  
 https://askubuntu.com/questions/1313154/how-to-know-the-proper-amount-of-needed-disk-space-for-efi-partition  
-https://www.linuxquestions.org/questions/linux-newbie-8/boot-partition-efi-system-partition-file-system-questions-4175710247/  
+https://www.linuxquestions.org/questions/linux-newbie-8/boot-partition-efi-system-partition-file-system-questions-4175710247/
+<br>
 
 
 reference:  
-https://www.linux.org/threads/solved-boot-partition-efi-system-partition-file-system-questions.39817/  
-https://ubuntuforums.org/showthread.php?t=2412667  
-https://forums.linuxmint.com/viewtopic.php?t=396072  
-https://forums.linuxmint.com/viewtopic.php?t=360768  
+https://www.linux.org/threads/solved-boot-partition-efi-system-partition-file-system-questions.39817/
+<br>
+https://ubuntuforums.org/showthread.php?t=2412667
+<br>
+https://forums.linuxmint.com/viewtopic.php?t=396072
+<br>
+https://forums.linuxmint.com/viewtopic.php?t=360768
+<br>
 https://forums.linuxmint.com/viewtopic.php?t=341299  
+<br>
 
 3) /:  
 ext4/ btrfs  
