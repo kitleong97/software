@@ -17,6 +17,8 @@ Partition 4: (Primary)
 Note:  
 default disk management cant show 4 part (only show 3 part),  
 you need other software to show 4 parts (exp: disk genius)  
+<div></div>  
+
   
 32 bits (x86) format:  
 CSM/ Legacy BIOS/ BIOS  
