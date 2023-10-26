@@ -51,7 +51,6 @@ https://askubuntu.com/questions/1313154/how-to-know-the-proper-amount-of-needed-
 <br>
 https://www.linuxquestions.org/questions/linux-newbie-8/boot-partition-efi-system-partition-file-system-questions-4175710247/
 <br>
-
 reference:  
 https://www.linux.org/threads/solved-boot-partition-efi-system-partition-file-system-questions.39817/
 <br>
