@@ -35,11 +35,11 @@ Partition 2: (Primary)
 
 linux 64 bits (x64):  
 Min 3 parts:  
-1) efi:  
+1)  efi:  
 fat32/ vfat  512MB  
-2) /:  
+2)  /:  
 ext4/ btrfs  
-3) swap:  
+3)  swap:  
 ram size/ double ram size (ram:8GB, swap:16GB)  
 <br>
 
