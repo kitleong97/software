@@ -42,7 +42,8 @@ Max size: 512MB
 ext4/ btrfs  
 4) swap:  
 ram size/ double ram size:  
-exp: ram:8GB, swap:16GB)  
+(exp: ram:8GB, swap:16GB or  
+exp: ram:8GB, swap:8GB)  
 <br>
 
 reference:  
