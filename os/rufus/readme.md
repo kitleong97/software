@@ -70,7 +70,7 @@ ext4/ btrfs
 4) swap:  
 ram size/ double ram size/ at least 1GB:  
 (exp: ram: 8GB, swap: 16GB or  
-ram: 8GB, swap: 8GB or
+ram: 8GB, swap: 8GB or  
 ram: 8GB, swap: 1GB)  
 
 
