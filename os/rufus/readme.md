@@ -1,4 +1,6 @@
+rufus:  
 https://rufus.ie/zh_TW/
 
-UEFI:
+64bits format:
+UEFI
 GPT
