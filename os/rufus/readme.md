@@ -39,7 +39,8 @@ Min 3 parts:
 fat32/ vfat  512MB  
 2) /:  
 ext4/ btrfs  
-3) swap:  ram size/ double ram size (ram:8GB, swap:16GB)  
+3) swap:  
+ram size/ double ram size (ram:8GB, swap:16GB)  
 <br>
 
 reference:  
