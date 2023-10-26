@@ -1,7 +1,7 @@
 firefox   
 https://www.mozilla.org/zh-TW/firefox/new/
 
-opera
+opera  
 https://www.opera.com/zh-cn
 
 chrome
