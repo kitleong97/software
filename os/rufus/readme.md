@@ -30,11 +30,8 @@ Partition 2: (Primary)
 <img src="https://github.com/kitleong97/software/blob/main/os/rufus/Windows%2010%20BIOS-MBR.png" width="49%" height="600px" alt="english mbr 32 bit" >
 <img src="https://github.com/kitleong97/software/blob/main/os/rufus/1517044875-722234276.jpg" width="49%" height="600px" alt="chinese mbr 32 bits"  >  
 </div>
-<p></p>  
 <br>
 <br>
-<br>
-<p></p>  
 reference:  
 chinese  
 https://ofeyhong.pixnet.net/blog/post/221137125  
