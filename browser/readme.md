@@ -1,10 +1,10 @@
-firefox   
+firefox  
 https://www.mozilla.org/zh-TW/firefox/new/
 
 opera  
 https://www.opera.com/zh-cn
 
-chrome
+chrome 
 https://www.google.com/intl/zh-TW/chrome/
 
 brave
