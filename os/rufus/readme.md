@@ -1,8 +1,8 @@
 rufus:  
 https://rufus.ie/zh_TW/
 
-===windows os (w10, w11):  
----64 bits (x64) format:  
+###windows os (w10, w11):  
+###64 bits (x64) format:###  
 UEFI  
 GPT  
 4 parts: (Type)  
