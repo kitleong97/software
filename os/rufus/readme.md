@@ -36,7 +36,7 @@ Partition 2: (Primary)
 linux 64 bits (x64):  
 Min 3 parts:  
 1) efi:  
-fat32 (suggest)/ vfat  
+fat32 (suggest)/ os installer auto default/ vfat  
 Max size: 512MB  
 3) /:  
 ext4/ btrfs  
