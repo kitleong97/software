@@ -14,6 +14,9 @@ Partition 4: (Primary)
 <img src="https://github.com/kitleong97/software/blob/main/os/rufus/Windows%2010%20UEFI-GPT.png" width="49%" height="600px" alt="english uefi 64 bit" >
 <img src="https://github.com/kitleong97/software/blob/main/os/rufus/1517043977-688010571.jpg" width="49%" height="600px" alt="chinese uefi 64 bit"  >  
 </div>
+Note:  
+default disk management cant show 4 part (only show 3 part),  
+you need other software to show 4 parts (exp: disk genius)  
 
 32 bits (x86) format:  
 CSM/ Legacy BIOS/ BIOS  
