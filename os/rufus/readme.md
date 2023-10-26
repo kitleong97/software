@@ -47,11 +47,16 @@ Min 3 parts:
 fat32 (suggest)/ os installer auto default/ vfat  
 Max size: 512MB/ 550MB
 reference:  
-https://www.linux.org/threads/solved-boot-partition-efi-system-partition-file-system-questions.39817/  
+https://www.linux.org/threads/solved-boot-partition-efi-system-partition-file-system-questions.39817/
+<br>
 https://ubuntuforums.org/showthread.php?t=2412667  
+<br>
 https://forums.linuxmint.com/viewtopic.php?t=396072  
+<br>
 https://forums.linuxmint.com/viewtopic.php?t=360768  
+<br>
 https://forums.linuxmint.com/viewtopic.php?t=341299  
+<br>
 
 3) /:  
 ext4/ btrfs  
