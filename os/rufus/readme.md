@@ -10,7 +10,7 @@ Partition 2: (System) 100MB
 Partition 3: MSR(Reserved)  
 Partition 4: (Primary)  
 ![image](picture or gif url)
-![image]((https://github.com/kitleong97/software/blob/main/os/rufus/1517043977-688010571.jpg)
+![image](https://github.com/kitleong97/software/blob/main/os/rufus/1517043977-688010571.jpg)
 
 32 bits (x86) format:  
 CSM/ Legacy BIOS/ BIOS  
