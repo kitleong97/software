@@ -32,18 +32,6 @@ Partition 2: (Primary)
 <img src="https://github.com/kitleong97/software/blob/main/os/rufus/1517044875-722234276.jpg" width="49%" height="600px" alt="chinese mbr 32 bits"  >  
 </div>
 <br>
-
-linux 64 bits (x64):  
-Min 3 parts:  
-1) efi:  
-fat32 (suggest)/ os installer auto default/ vfat  
-Max size: 512MB/ 550MB  
-3) /:  
-ext4/ btrfs  
-4) swap:  
-ram size/ double ram size:  
-(exp: ram: 8GB, swap: 16GB or  
-exp: ram: 8GB, swap: 8GB)  
 <br>
 
 reference:  
@@ -52,6 +40,27 @@ https://ofeyhong.pixnet.net/blog/post/221137125
 <br>
 english:  
 https://www.tenforums.com/installation-upgrade/9053-w10-install-uefi-mode.html  
+
+
+linux 64 bits (x64):  
+Min 3 parts:  
+1) efi (also call esp):  
+fat32 (suggest)/ os installer auto default/ vfat  
+Max size: 512MB/ 550MB
+reference:
+https://www.linux.org/threads/solved-boot-partition-efi-system-partition-file-system-questions.39817/
+https://ubuntuforums.org/showthread.php?t=2412667
+https://forums.linuxmint.com/viewtopic.php?t=396072  
+https://forums.linuxmint.com/viewtopic.php?t=360768
+https://forums.linuxmint.com/viewtopic.php?t=341299
+
+3) /:  
+ext4/ btrfs  
+4) swap:  
+ram size/ double ram size:  
+(exp: ram: 8GB, swap: 16GB or  
+exp: ram: 8GB, swap: 8GB)  
+
 
 
 
