@@ -32,7 +32,7 @@ Partition 2: (Primary)
 <br>
 reference:  
 chinese  
-https://ofeyhong.pixnet.net/blog/post/221137125  
+https://ofeyhong.pixnet.net/blog/post/221137125   
 english:  
 https://www.tenforums.com/installation-upgrade/9053-w10-install-uefi-mode.html  
 
