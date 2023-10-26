@@ -33,6 +33,15 @@ Partition 2: (Primary)
 </div>
 <br>
 
+linux 64 bits (x64):  
+Min 3 parts:  
+1) efi:  
+fat32/ vfat  512MB  
+2) /:  
+ext4/ btrfs  
+3) swap: ram size/ double ram size (ram:8GB, swap:16GB)  
+<br>
+
 reference:  
 chinese  
 https://ofeyhong.pixnet.net/blog/post/221137125
