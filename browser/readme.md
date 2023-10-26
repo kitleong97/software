@@ -4,13 +4,13 @@ https://www.mozilla.org/zh-TW/firefox/new/
 opera  
 https://www.opera.com/zh-cn
 
-chrome 
+chrome  
 https://www.google.com/intl/zh-TW/chrome/
 
-brave
+brave  
 https://brave.com/zh/download/
 
-chromium
+chromium  
 https://www.chromium.org/getting-involved/download-chromium/
 
 
