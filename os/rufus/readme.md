@@ -16,7 +16,7 @@ Partition 4: (Primary)
 </div>
 
 Note:  
-(default) disk management cant show 4 part (only show 3 part),  
+(default) disk management cant show 4 part (only show 3 parts),  
 you need other software to show 4 parts (exp: disk genius)  
 <br>
 
