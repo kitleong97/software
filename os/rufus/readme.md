@@ -64,8 +64,9 @@ https://forums.linuxmint.com/viewtopic.php?t=360768
 https://forums.linuxmint.com/viewtopic.php?t=341299  
 <br>
 
-3) /:  
-ext4/ btrfs  
+2) /:  
+ext4/ btrfs
+
 4) swap:  
 ram size/ double ram size:  
 (exp: ram: 8GB, swap: 16GB or  
