@@ -32,7 +32,6 @@ Partition 2: (Primary)
 <img src="https://github.com/kitleong97/software/blob/main/os/rufus/1517044875-722234276.jpg" width="49%" height="600px" alt="chinese mbr 32 bits"  >  
 </div>
 <br>
-<br>
 
 reference:  
 chinese  
@@ -40,7 +39,7 @@ https://ofeyhong.pixnet.net/blog/post/221137125
 <br>
 english:  
 https://www.tenforums.com/installation-upgrade/9053-w10-install-uefi-mode.html  
-
+<br>
 
 linux 64 bits (x64):  
 Min 3 parts:  
