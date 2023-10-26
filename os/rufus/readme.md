@@ -11,8 +11,8 @@ Partition 2: (System) 100MB
 Partition 3: MSR(Reserved)  
 Partition 4: (Primary)
 <div justify-content='space-between' >
-<div><img src="https://github.com/kitleong97/software/blob/main/os/rufus/Windows%2010%20UEFI-GPT.png" width="40%" height="600px" alt="english uefi 64 bit" ></div>
-<div><img src="https://github.com/kitleong97/software/blob/main/os/rufus/1517043977-688010571.jpg" width="40%" height="600px" alt="chinese uefi 64 bit"  >  </div>
+<div><img src="https://github.com/kitleong97/software/blob/main/os/rufus/Windows%2010%20UEFI-GPT.png" width="30%" height="600px" alt="english uefi 64 bit" ></div>
+<div><img src="https://github.com/kitleong97/software/blob/main/os/rufus/1517043977-688010571.jpg" width="30%" height="600px" alt="chinese uefi 64 bit"  >  </div>
 
 
 </div>
