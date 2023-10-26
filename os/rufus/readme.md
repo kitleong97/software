@@ -10,9 +10,9 @@ Partition 1: Recovery (Recovery)
 Partition 2: (System) 100MB  
 Partition 3: MSR(Reserved)  
 Partition 4: (Primary)
-<div display="flex" align-items="center">
-<img src="https://github.com/kitleong97/software/blob/main/os/rufus/Windows%2010%20UEFI-GPT.png" width="40%" height="400px" alt="english uefi" vertical-align="middle" >
-<img src="https://github.com/kitleong97/software/blob/main/os/rufus/1517043977-688010571.jpg" width="40%" height="400px" alt="chinese uefi" vertical-align="middle" >  
+<div >
+<img src="https://github.com/kitleong97/software/blob/main/os/rufus/Windows%2010%20UEFI-GPT.png" width="40%" height="400px" alt="english uefi" >
+<img src="https://github.com/kitleong97/software/blob/main/os/rufus/1517043977-688010571.jpg" width="40%" height="400px" alt="chinese uefi"  >  
 </div>
 
 32 bits (x86) format:  
