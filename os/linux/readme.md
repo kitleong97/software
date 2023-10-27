@@ -22,7 +22,7 @@ https://forums.linuxmint.com/viewtopic.php?t=341299
 <br>
 
 2) / (this is root partition, where your os live, don't delete it):  
-ext4/ btrfs
+ext4/ btrfs (more easily backup XD)
 
 4) swap:  
 ram size/ double ram size/ at least 1GB:  
