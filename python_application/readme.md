@@ -6,13 +6,16 @@ python required:
 ai:  
 python 3.9  
 
+keras  
+TensorFlow  
+pytorch  
+
+
 caffe  
 caffe2  
 mxnet  
 onnx  
-keras  
-pytorch  
-TensorFlow  
+
 
 
 
