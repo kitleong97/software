@@ -2,7 +2,7 @@ xp pen deco mini 7
 https://www.xppen.tw/download-534.html
 
 MediBang Paint  
-https://medibangpaint.com/zh_TW/faq/1022/
+https://medibangpaint.com/zh_TW/faq/1022/  
 https://www.youtube.com/watch?v=IrbFQ9JIKv8
 
 Krita  
