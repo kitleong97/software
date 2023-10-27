@@ -2,7 +2,7 @@ rufus:
 https://rufus.ie/zh_TW/
 
 # windows os (w10, w11):  
-## 64 bits (x64) format:  
+### 64 bits (x64) format:  
 UEFI  
 GPT  
 4 parts: (Type)  
@@ -21,7 +21,7 @@ you need other software to show 4 parts (exp: disk genius)
 <br>
 
 
-## 32 bits (x86) format:  
+### 32 bits (x86) format:  
 CSM/ Legacy BIOS/ BIOS  
 MBR  
 2 parts:  
