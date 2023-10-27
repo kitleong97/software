@@ -21,14 +21,21 @@ https://forums.linuxmint.com/viewtopic.php?t=360768
 https://forums.linuxmint.com/viewtopic.php?t=341299  
 <br>
 
-2) / (this is root partition, where your os live, don't delete it):  
+2) / (this is root partition, where your os lives, don't delete it):  
 ext4/ btrfs (more easily backup XD)
 
-4) swap:  
+3) swap:  
 ram size/ double ram size/ at least 1GB:  
 (exp: ram: 8GB, swap: 16GB or  
 ram: 8GB, swap: 8GB or  
 ram: 8GB, swap: 1GB)  
+
+4) /home (home partition which is optional choice, but perfer make it)  
+(home partition which under root partition, where u *data lives, perfer seperate it as 4th partition because it more safer while u update or do any thing to your root partition)  
+(even home partition is under root partition, u do any recovery operation to root partition will no affect home partition, that allows u *data become safe)  
+(*data means data that u edit, create and download, exp: ???.mp4, ???.txt, ???.c, ???.ppt..., but no your ???.exe)
+(???.exe, firmware, software will install in root partition (/), *data will store in home partition (/home))
+(even home partition is under root partition,home partition is independent to root partition)  
 
 https://distrowatch.com/
 <br>
