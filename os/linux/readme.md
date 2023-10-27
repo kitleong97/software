@@ -21,7 +21,7 @@ https://forums.linuxmint.com/viewtopic.php?t=360768
 https://forums.linuxmint.com/viewtopic.php?t=341299  
 <br>
 
-2) /:  
+2) / (this is root partition, where your os live, don't delete it):  
 ext4/ btrfs
 
 4) swap:  
