@@ -1,9 +1,12 @@
+# easily find thing  
 everything  
 https://www.voidtools.com/zh-cn/downloads/  
 
+# image viewer  
 honeyview  
 https://tw.bandisoft.com/honeyview/  
 
+# audio and video player  
 potplayer  
 https://potplayer.daum.net/  
 (linux does not have it)  
@@ -14,6 +17,7 @@ https://www.smplayer.info/zh_TW/downloads
 VLC media player  
 https://www.videolan.org/vlc/index.zh_TW.html  
 
+# compress and expand  
 winrar  
 https://www.win-rar.com/start.html?&L=0  
 (go to english version offical website)  
