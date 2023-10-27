@@ -46,11 +46,11 @@ https://neon.kde.org/download
 solus(budgie)  
 https://getsol.us/download/  
 
-pop os
+pop os  
 https://pop.system76.com/  
 
 FreeBSD  
-
+https://www.freebsd.org/zh-tw/where/  
 
 
 
