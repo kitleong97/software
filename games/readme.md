@@ -32,3 +32,14 @@ https://honkaiimpact3.hoyoverse.com/asia/zh-cn/download
 
 勝利女神：妮姬  (windows only)  
 https://nikke.hotcool.tw/download/  
+
+### google play store  
+少女前線  
+
+明日方舟  
+
+碧藍航線  
+
+蔚藍檔案  
+
+
