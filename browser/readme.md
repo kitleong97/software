@@ -7,7 +7,7 @@ https://www.opera.com/zh-cn
 chrome  
 https://www.google.com/intl/zh-TW/chrome/
 
-brave  
+brave(youtube adblocker best choice)  
 https://brave.com/zh/download/
 
 chromium  
