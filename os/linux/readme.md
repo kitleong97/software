@@ -36,7 +36,7 @@ https://distrowatch.com/
 ubuntu  
 https://ubuntu.com/download/desktop  
 
-mint(Cinnamon Edition)  
+mint (Cinnamon Edition)  
 https://www.linuxmint.com/download.php  
 
 debian  
@@ -45,10 +45,10 @@ https://www.debian.org/CD/http-ftp/
 fedora  
 https://fedoraproject.org/  
 
-manjora(KDE Plasma)  
+manjora (KDE Plasma)  
 https://manjaro.org/download/  
 
-opensuse(Leap which is stable version)  
+opensuse (Leap which is stable version)  
 https://www.opensuse.org/  
 
 deepin  
@@ -60,10 +60,10 @@ https://elementary.io/
 zorin  
 https://zorin.com/os/download/  
 
-EndeavourOS(XFCE)  
+EndeavourOS (XFCE)  
 https://endeavouros.com/  
 
-MX Linux(Xfce)  
+MX Linux (Xfce)  
 https://mxlinux.org/download-links/  
 
 kali  
@@ -72,10 +72,10 @@ https://www.kali.org/get-kali/#kali-platforms
 arch linux  
 https://archlinux.org/download/  
 
-KDE neon(KDE Plasma)  
+KDE neon (KDE Plasma)  
 https://neon.kde.org/download  
 
-solus(budgie)  
+solus (budgie)  
 https://getsol.us/download/  
 
 pop os  
