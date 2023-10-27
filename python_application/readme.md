@@ -13,11 +13,12 @@ pytorch
 <div>
 <img src="https://github.com/kitleong97/software/blob/main/python_application/1%20NKBNWP3arktKZEOrcxojDA.webp" width="49%" height="600px" alt="ai frameworks" >  
 </div>
+
 caffe  
 caffe2  
 mxnet  
 onnx  
-
+Scikit Learn
 
 
 
@@ -29,4 +30,6 @@ anaconda:
 https://www.anaconda.com/download  
 
 anaconda plugins:  
-
+numpy
+pandas
+matplotlib
