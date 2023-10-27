@@ -16,10 +16,13 @@ https://fedoraproject.org/
 manjora(KDE Plasma)  
 https://manjaro.org/download/  
 
-opensuse(Tumbleweed)  
+opensuse(Leap which is stable version)  
 https://www.opensuse.org/  
 
-elementary  
+deepin  
+https://www.deepin.org/zh/download/  
+
+elementary os  
 https://elementary.io/  
 
 zorin  
@@ -34,16 +37,19 @@ https://mxlinux.org/download-links/
 kali  
 https://www.kali.org/get-kali/#kali-platforms  
 
+arch linux  
+https://archlinux.org/download/  
+
 KDE neon(KDE Plasma)  
 https://neon.kde.org/download  
 
+solus(budgie)  
+https://getsol.us/download/  
 
+pop os
+https://pop.system76.com/  
 
-
-
-
-
-
+FreeBSD  
 
 
 
