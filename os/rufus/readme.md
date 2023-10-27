@@ -1,8 +1,8 @@
 rufus:  
 https://rufus.ie/zh_TW/
 
-windows os (w10, w11):  
-64 bits (x64) format:  
+# windows os (w10, w11):  
+## 64 bits (x64) format:  
 UEFI  
 GPT  
 4 parts: (Type)  
@@ -15,7 +15,7 @@ Partition 4: (Primary)
 <img src="https://github.com/kitleong97/software/blob/main/os/rufus/1517043977-688010571.jpg" width="49%" height="600px" alt="chinese uefi 64 bit" >  
 </div>
 
-## Note:  
+### Note:  
 (default) disk management cant show 4 part (only show 3 parts),  
 you need other software to show 4 parts (exp: disk genius)  
 <br>
@@ -41,7 +41,7 @@ english:
 https://www.tenforums.com/installation-upgrade/9053-w10-install-uefi-mode.html  
 <br>
 
-linux 64 bits (x64):  
+# linux 64 bits (x64):  
 Min 3 parts:  
 1) efi (also call esp):  
 fat32 (suggest)/ os installer auto default/ vfat  
