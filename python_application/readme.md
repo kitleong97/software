@@ -1,4 +1,4 @@
-### Before install anaconda,  Download python 3.10.6 and install stable diffusion first
+### Before install anaconda, download python 3.10.6 and install stable diffusion first
 (install anaconda first will affect install stable diffusion due to newest python version)
 
 python required:  
