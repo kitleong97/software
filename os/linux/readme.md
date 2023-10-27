@@ -31,8 +31,8 @@ ram: 8GB, swap: 1GB)
 
 [optional]  
 4) /home (home partition which is optional choice, but perfer make it)  
-(home partition which under root partition, where u *data lives, perfer seperate it as 4th partition because it more safer while u update or do any thing to your root partition)
-(sumarry: even home partition is under root partition,home partition is independent to root partition)
+(home partition which under root partition, where u *data lives, perfer seperate it as 4th partition because it more safer while u update or do any thing to your root partition)  
+(sumarry: even home partition is under root partition,home partition is independent to root partition)  
 (???.exe, firmware, software will install in root partition (/), *data will store in home partition (/home))  
 (even home partition is under root partition, u do any recovery operation to root partition will no affect home partition, that allows u *data become safe)
 (*data means data that u edit, create and download, exp: ???.mp4, ???.txt, ???.c, ???.ppt..., but no your ???.exe)  
