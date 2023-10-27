@@ -29,7 +29,7 @@ ram size/ double ram size/ at least 1GB:
 ram: 8GB, swap: 8GB or  
 ram: 8GB, swap: 1GB)  
 
-4) /home (home partition which is optional choice, but perfer make it)  
+[optiona]4) /home (home partition which is optional choice, but perfer make it)  
 (home partition which under root partition, where u *data lives, perfer seperate it as 4th partition because it more safer while u update or do any thing to your root partition)
 (sumarry: even home partition is under root partition,home partition is independent to root partition)
 (???.exe, firmware, software will install in root partition (/), *data will store in home partition (/home))  
