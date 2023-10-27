@@ -15,13 +15,13 @@ Partition 4: (Primary)
 <img src="https://github.com/kitleong97/software/blob/main/os/rufus/1517043977-688010571.jpg" width="49%" height="600px" alt="chinese uefi 64 bit" >  
 </div>
 
-Note:  
+##Note:  
 (default) disk management cant show 4 part (only show 3 parts),  
 you need other software to show 4 parts (exp: disk genius)  
 <br>
 
 
-32 bits (x86) format:  
+##32 bits (x86) format:  
 CSM/ Legacy BIOS/ BIOS  
 MBR  
 2 parts:  
