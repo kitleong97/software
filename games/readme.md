@@ -23,5 +23,5 @@ honkai: star rail 崩壞：星穹鐵道
 崩壞3rd  ***東南亞服  
 https://honkaiimpact3.hoyoverse.com/asia/zh-cn/download  
 
-勝利女神：妮姬  (windows only)
+勝利女神：妮姬  (windows only)  
 https://nikke.hotcool.tw/download/  
