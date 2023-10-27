@@ -1,6 +1,3 @@
-https://distrowatch.com/
-<br>
-
 # linux 64 bits (x64/amd64 are 64 bits, because i386 is 32 bits):  
 Min 3 parts:  
 1) efi (also call esp):  
@@ -33,7 +30,8 @@ ram size/ double ram size/ at least 1GB:
 ram: 8GB, swap: 8GB or  
 ram: 8GB, swap: 1GB)  
 
-
+https://distrowatch.com/
+<br>
 
 ubuntu  
 https://ubuntu.com/download/desktop  
