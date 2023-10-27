@@ -10,6 +10,13 @@ https://www.ubisoft.com/zh-tw/
 origin(same as "ea app")  
 https://www.ea.com/zh-tw/ea-app  
 
+## phone simulator  
+BlueStacks藍疊  
+https://www.bluestacks.com/tw/index.html  
+
+nox夜神模擬器  
+https://tw.bignox.com/  
+
 ## smartphone games list:  
 ### epic games  
 genshin impact 原神  
