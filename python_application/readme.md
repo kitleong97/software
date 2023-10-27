@@ -7,6 +7,7 @@ ai:
 python 3.9  
 
 caffe  
+caffe2  
 mxnet  
 onnx  
 keras  
