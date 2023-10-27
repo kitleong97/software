@@ -11,8 +11,8 @@ origin(same as "ea app")
 https://www.ea.com/zh-tw/ea-app  
 
 ## smartphone games list:  
-###epic games  
+### epic games  
 genshin impact 原神  
 honkai: star rail 崩壞：星穹鐵道  
 
-###website  
+### website  
