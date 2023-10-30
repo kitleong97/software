@@ -26,4 +26,11 @@ https://www.win-rar.com/start.html?&L=0
 7-zip  
 https://www.developershome.com/7-zip/  
 
+pdf  
+https://get.adobe.com/cn/reader/?promoid=TTGWL47M  
+
+wps (global version, dont download from chinese version)  
+https://www.wps.com/  
+
+LibreOffice (edit, read, create odf)  
 
