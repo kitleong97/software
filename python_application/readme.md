@@ -30,6 +30,7 @@ anaconda:
 https://www.anaconda.com/download  
 
 anaconda plugins:  
-numpy
-pandas
-matplotlib
+numpy  
+pandas  
+matplotlib  
+
