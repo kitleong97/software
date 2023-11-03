@@ -32,5 +32,5 @@ https://get.adobe.com/cn/reader/?promoid=TTGWL47M
 wps (global version, dont download from chinese version)  
 https://www.wps.com/  
 
-LibreOffice (edit, read, create odf)  
-
+LibreOffice (edit, read, create odf) (better than open office)  
+https://zh-tw.libreoffice.org/download/libreoffice-still/  
