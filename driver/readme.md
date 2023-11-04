@@ -7,5 +7,6 @@ https://www.nvidia.com/zh-tw/geforce/drivers/
 amd cpu, gpu driver  
 https://www.amd.com/zh-hant/support  
 
-
+intel chipset driver  
+https://www.intel.com.tw/content/www/tw/zh/download-center/home.html  
 
