@@ -32,6 +32,8 @@ ChilloutMix
 https://civitai.com/models/6424/chilloutmix  
 DreamShaper  
 https://civitai.com/models/4384/dreamshaper  
+Babes  
+https://civitai.com/models/2220?modelVersionId=95505  
 
 anime  
 MeinaMix  
@@ -58,8 +60,8 @@ https://civitai.com/models/15003/cyberrealistic
 art style  
 GhostMix  
 https://civitai.com/models/36520/ghostmix  
-
-
+DynaVision XL - All-in-one stylized 3D SFW and NSFW output, no refiner needed!  
+https://civitai.com/models/122606?modelVersionId=198962  
 
 
 Uber Realistic Porn Merge (URPM) [LEGACY Version]  
@@ -69,7 +71,13 @@ https://civitai.com/models/12606/meinahentai
 Hassaku (hentai model)  
 https://civitai.com/models/2583/hassaku-hentai-model  
 
+AbyssOrangeMix2 - NSFW
+https://civitai.com/models/4449?modelVersionId=8474
 
+
+Lora
+[Anime & Realistic] Sexy Attire Collection || 【动漫 & 写实】羞羞服装合集  
+https://civitai.com/models/148182/anime-and-realistic-sexy-attire-collection-oror-and  
 
 
 
