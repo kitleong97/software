@@ -47,7 +47,7 @@ https://civitai.com/models/4468/counterfeit-v30
 
 realistic  
 Realistic Vision V5.1  
-https://civitai.com/models/4201?modelVersionId=130090  
+https://civitai.com/models/4201/realistic-vision-v51
 majicMIX realistic 麦橘写实   
 https://civitai.com/models/43331/majicmix-realistic  
 Beautiful Realistic Asians  
@@ -70,7 +70,6 @@ MeinaHentai
 https://civitai.com/models/12606/meinahentai  
 Hassaku (hentai model)  
 https://civitai.com/models/2583/hassaku-hentai-model  
-
 AbyssOrangeMix2 - NSFW
 https://civitai.com/models/4449?modelVersionId=8474
 
@@ -78,12 +77,96 @@ https://civitai.com/models/4449?modelVersionId=8474
 Lora
 [Anime & Realistic] Sexy Attire Collection || 【动漫 & 写实】羞羞服装合集  
 https://civitai.com/models/148182/anime-and-realistic-sexy-attire-collection-oror-and  
+苍铭明月的情趣服装系列| CMMY's sex clothing series,  
+https://civitai.com/models/119899/or-cmmys-sex-clothing-series  
+Elegant Dresses Collection  
+https://civitai.com/models/78754/elegant-dresses-collection  
+【Realistic & Anime】Genshin Impact AI Cosplayers Collection 原神 AI Coser合集  
+https://civitai.com/models/87320/realistic-and-animegenshin-impact-ai-cosplayers-collection-ai-coser  
+Sport Uniforms Collection  
+https://civitai.com/models/77978/sport-uniforms-collection  
+Oversized Clothing Collection
+https://civitai.com/models/76981/oversized-clothing-collection
+
+
+
+
+
+hanfu 汉服  
+https://civitai.com/models/15365?modelVersionId=39043  
+Slingshot swimsuit (Wedgie+Pubic hair)  
+https://civitai.com/models/7957/slingshot-swimsuit-wedgiepubic-hair  
+Perfect Full Round Breasts & Slim Waist - V3 & Medium+  
+https://civitai.com/models/61099/perfect-full-round-breasts-and-slim-waist-v3-and-medium  
+Garter belts  
+https://civitai.com/models/11059?modelVersionId=148623  
+Panty Pull / Clothes Pull | Clothing Lora 446
+https://civitai.com/models/8406/panty-pull-clothes-pull-or-clothing-lora-446
+Ex micro bikini(Mature content)  
+https://civitai.com/models/19166/ex-micro-bikinimature-content  
+RealDownblouse - Downblouse & Nipslip LoRA  
+https://civitai.com/models/37006/realdownblouse-downblouse-and-nipslip-lora  
+【Costume】Bondage Outfit/Dominatrix 拘束带装  
+https://civitai.com/models/19574/costumebondage-outfitdominatrix  
+Urban Samurai | v0.14 | Clothing LoRA  
+https://civitai.com/models/23337?modelVersionId=27871  
+Wetshirt - Wet T-Shirt LoRA  
+https://civitai.com/models/34431/wetshirt-wet-t-shirt-lora  
+Wedding Dress Extension | Clothing LoRA  
+https://civitai.com/models/24138?modelVersionId=29922  
+Open Lingerie  
+https://civitai.com/models/11537/open-lingerie  
+Haute Couture | Pencil Dresses  
+https://civitai.com/models/18215?modelVersionId=148629  
+Crop Tops - fC  
+https://civitai.com/models/57287?modelVersionId=93432  
+【Costume】Naked Hoodie 裸体卫衣  
+https://civitai.com/models/57821/costumenaked-hoodie  
+JK uniform  
+https://civitai.com/models/44907/jk-uniform  
+Virgin destroyer sweater  
+https://civitai.com/models/18933/virgin-destroyer-sweater  
+NSFW aodai  
+https://civitai.com/models/23699/nsfw-aodai  
+Crop Shirt + Underboob (anime+realistic) | Goofy Ai  
+https://civitai.com/models/112465/crop-shirt-underboob-animerealistic-or-goofy-ai  
+Undressing another
+https://civitai.com/models/94231/undressing-another
+Micro Slingshot Swimsuit + Pubic Hair / Outfit  
+https://civitai.com/models/102217/micro-slingshot-swimsuit-pubic-hair-outfit  
+Kidnapped / bdsm / willing partner  
+https://civitai.com/models/113516/kidnapped-bdsm-willing-partner  
+Skirt tug / dress tug / clothes tug  
+https://civitai.com/models/96038/skirt-tug-dress-tug-clothes-tug  
+Thai university uniform  
+https://civitai.com/models/12657/thai-university-uniform  
+[LoRA]地雷系/量産型ファッション | landmine girl fashion | 地雷系量产系妹子  
+https://civitai.com/models/24062/lora-or-landmine-girl-fashion-or  
+Volleyball Uniform | LyCORIS and LoRA  
+https://civitai.com/models/27577?modelVersionId=46527  
+VS-Tanliner  
+https://civitai.com/models/14673/vs-tanliner  
+Virgin killer sweater  
+https://civitai.com/models/10185/virgin-killer-sweater  
+Clothes See-through leotard  
+https://civitai.com/models/22256/clothes-see-through-leotard  
+Photorealistic Succubus Womb Tattoos (SDXL & 1.5) 魅魔逼真私密纹身  
+https://civitai.com/models/14470/photorealistic-succubus-womb-tattoos-sdxl-and-15  
+Adjusting clothes
+https://civitai.com/models/93524/adjusting-clothes
+Undressing panties
+https://civitai.com/models/110871/undressing-panties
+Dolphin shorts
+https://civitai.com/models/123226/dolphin-shorts
+Revealing dress
+https://civitai.com/models/141880/revealing-dress
+
 
 
 
 anaconda:  
 https://www.anaconda.com/download  
-https://civitai.com/models/4201/realistic-vision-v51
+
 
 
 
