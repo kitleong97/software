@@ -89,10 +89,10 @@ Oversized Clothing Collection
 https://civitai.com/models/76981/oversized-clothing-collection
 Fantasy Armors - an EDG collection  
 https://civitai.com/models/79653?modelVersionId=127051  
-A-Mecha Musume A素体机娘
-https://civitai.com/models/15464/a-mecha-musume-a
-Modern Victorian fashion dress | 洛丽塔裙子 | ロリータ ドレス Vol.1
-https://civitai.com/models/65283?modelVersionId=86185
+A-Mecha Musume A素体机娘  
+https://civitai.com/models/15464/a-mecha-musume-a  
+Modern Victorian fashion dress | 洛丽塔裙子 | ロリータ ドレス Vol.1  
+https://civitai.com/models/65283?modelVersionId=86185  
 
 苍铭明月的情趣服装系列| CMMY's sex clothing series,  
 https://civitai.com/models/119899/or-cmmys-sex-clothing-series  
@@ -100,10 +100,10 @@ Elegant Dresses Collection
 https://civitai.com/models/78754/elegant-dresses-collection  
 【Realistic & Anime】Genshin Impact AI Cosplayers Collection 原神 AI Coser合集  
 https://civitai.com/models/87320/realistic-and-animegenshin-impact-ai-cosplayers-collection-ai-coser  
-Doll Likeness - by EDG
-https://civitai.com/models/42903?modelVersionId=194058
-Royal Gowns - an EDG collection
-https://civitai.com/models/61135/royal-gowns-an-edg-collection
+Doll Likeness - by EDG  
+https://civitai.com/models/42903?modelVersionId=194058  
+Royal Gowns - an EDG collection  
+https://civitai.com/models/61135/royal-gowns-an-edg-collection  
 
 
 hanfu 汉服  
