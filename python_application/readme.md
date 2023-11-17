@@ -70,26 +70,40 @@ MeinaHentai
 https://civitai.com/models/12606/meinahentai  
 Hassaku (hentai model)  
 https://civitai.com/models/2583/hassaku-hentai-model  
-AbyssOrangeMix2 - NSFW
-https://civitai.com/models/4449?modelVersionId=8474
+AbyssOrangeMix2 - NSFW  
+https://civitai.com/models/4449?modelVersionId=8474  
+
+
+
+
+
+
 
 
 Lora
 [Anime & Realistic] Sexy Attire Collection || 【动漫 & 写实】羞羞服装合集  
 https://civitai.com/models/148182/anime-and-realistic-sexy-attire-collection-oror-and  
+Sport Uniforms Collection  
+https://civitai.com/models/77978/sport-uniforms-collection  
+Oversized Clothing Collection
+https://civitai.com/models/76981/oversized-clothing-collection
+Fantasy Armors - an EDG collection  
+https://civitai.com/models/79653?modelVersionId=127051  
+A-Mecha Musume A素体机娘
+https://civitai.com/models/15464/a-mecha-musume-a
+Modern Victorian fashion dress | 洛丽塔裙子 | ロリータ ドレス Vol.1
+https://civitai.com/models/65283?modelVersionId=86185
+
 苍铭明月的情趣服装系列| CMMY's sex clothing series,  
 https://civitai.com/models/119899/or-cmmys-sex-clothing-series  
 Elegant Dresses Collection  
 https://civitai.com/models/78754/elegant-dresses-collection  
 【Realistic & Anime】Genshin Impact AI Cosplayers Collection 原神 AI Coser合集  
 https://civitai.com/models/87320/realistic-and-animegenshin-impact-ai-cosplayers-collection-ai-coser  
-Sport Uniforms Collection  
-https://civitai.com/models/77978/sport-uniforms-collection  
-Oversized Clothing Collection
-https://civitai.com/models/76981/oversized-clothing-collection
-
-
-
+Doll Likeness - by EDG
+https://civitai.com/models/42903?modelVersionId=194058
+Royal Gowns - an EDG collection
+https://civitai.com/models/61135/royal-gowns-an-edg-collection
 
 
 hanfu 汉服  
@@ -160,9 +174,10 @@ Dolphin shorts
 https://civitai.com/models/123226/dolphin-shorts
 Revealing dress
 https://civitai.com/models/141880/revealing-dress
-
-
-
+Miniature Microbikini
+https://civitai.com/models/56016/miniature-microbikini
+True Buruma
+https://civitai.com/models/22732?modelVersionId=66023
 
 anaconda:  
 https://www.anaconda.com/download  
