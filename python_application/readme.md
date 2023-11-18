@@ -144,8 +144,8 @@ NSFW aodai
 https://civitai.com/models/23699/nsfw-aodai  
 Crop Shirt + Underboob (anime+realistic) | Goofy Ai  
 https://civitai.com/models/112465/crop-shirt-underboob-animerealistic-or-goofy-ai  
-Undressing another
-https://civitai.com/models/94231/undressing-another
+Undressing another  
+https://civitai.com/models/94231/undressing-another  
 Micro Slingshot Swimsuit + Pubic Hair / Outfit  
 https://civitai.com/models/102217/micro-slingshot-swimsuit-pubic-hair-outfit  
 Kidnapped / bdsm / willing partner  
@@ -165,8 +165,8 @@ https://civitai.com/models/10185/virgin-killer-sweater
 Clothes See-through leotard  
 https://civitai.com/models/22256/clothes-see-through-leotard  
 Photorealistic Succubus Womb Tattoos (SDXL & 1.5) 魅魔逼真私密纹身  
-https://civitai.com/models/14470/photorealistic-succubus-womb-tattoos-sdxl-and-15  
-Adjusting clothes
+https://civitai.com/models/14470/photorealistic-succubus-womb-tattoos-sdxl-and-15   
+Adjusting clothes  
 https://civitai.com/models/93524/adjusting-clothes  
 Undressing panties  
 https://civitai.com/models/110871/undressing-panties  
