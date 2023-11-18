@@ -26,6 +26,7 @@ stable diffusion:
 python 3.10.6  
 https://github.com/AUTOMATIC1111/stable-diffusion-webui  
 
+https://civitai.com/  
 model list:
 basic
 ChilloutMix  
