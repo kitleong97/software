@@ -53,6 +53,9 @@ ChikMix
 https://civitai.com/models/9871/chikmix  
 ChikMix2D  
 https://civitai.com/models/16808/chikmix2d  
+国风3 GuoFeng3  
+https://civitai.com/models/10415/3-guofeng3  
+
 
 anime  
 MeinaMix  
@@ -84,6 +87,10 @@ epiCRealism
 https://civitai.com/models/25694/epicrealism  
 CyberRealistic  
 https://civitai.com/models/15003/cyberrealistic  
+Negative Embedding for Deliberate  
+https://civitai.com/models/30224/negative-embedding-for-deliberate  
+Deliberate for Invoke  
+https://civitai.com/models/5585/deliberate-for-invoke  
 
 art style  
 GhostMix  
@@ -209,6 +216,8 @@ https://civitai.com/models/22732?modelVersionId=66023
 https://civitai.com/models/8217?modelVersionId=129198  
 Pure Eros Face  
 https://civitai.com/models/4514/pure-eros-face  
+国风3Lora GuoFeng3_Lora  
+https://civitai.com/models/11352?modelVersionId=17518  
 
 character  
 Raiden Shogun | Realistic Genshin LORA  
