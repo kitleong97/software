@@ -23,7 +23,7 @@ Scikit Learn
 
 
 stable diffusion:  
-python 3.10.6 
+python 3.10.6  
 https://github.com/AUTOMATIC1111/stable-diffusion-webui  
 
 model list:
@@ -47,7 +47,7 @@ https://civitai.com/models/4468/counterfeit-v30
 
 realistic  
 Realistic Vision V5.1  
-https://civitai.com/models/4201/realistic-vision-v51
+https://civitai.com/models/4201/realistic-vision-v51  
 majicMIX realistic 麦橘写实   
 https://civitai.com/models/43331/majicmix-realistic  
 Beautiful Realistic Asians  
@@ -85,8 +85,8 @@ Lora
 https://civitai.com/models/148182/anime-and-realistic-sexy-attire-collection-oror-and  
 Sport Uniforms Collection  
 https://civitai.com/models/77978/sport-uniforms-collection  
-Oversized Clothing Collection
-https://civitai.com/models/76981/oversized-clothing-collection
+Oversized Clothing Collection  
+https://civitai.com/models/76981/oversized-clothing-collection  
 Fantasy Armors - an EDG collection  
 https://civitai.com/models/79653?modelVersionId=127051  
 A-Mecha Musume A素体机娘  
@@ -114,8 +114,8 @@ Perfect Full Round Breasts & Slim Waist - V3 & Medium+
 https://civitai.com/models/61099/perfect-full-round-breasts-and-slim-waist-v3-and-medium  
 Garter belts  
 https://civitai.com/models/11059?modelVersionId=148623  
-Panty Pull / Clothes Pull | Clothing Lora 446
-https://civitai.com/models/8406/panty-pull-clothes-pull-or-clothing-lora-446
+Panty Pull / Clothes Pull | Clothing Lora 446  
+https://civitai.com/models/8406/panty-pull-clothes-pull-or-clothing-lora-446  
 Ex micro bikini(Mature content)  
 https://civitai.com/models/19166/ex-micro-bikinimature-content  
 RealDownblouse - Downblouse & Nipslip LoRA  
@@ -167,17 +167,17 @@ https://civitai.com/models/22256/clothes-see-through-leotard
 Photorealistic Succubus Womb Tattoos (SDXL & 1.5) 魅魔逼真私密纹身  
 https://civitai.com/models/14470/photorealistic-succubus-womb-tattoos-sdxl-and-15  
 Adjusting clothes
-https://civitai.com/models/93524/adjusting-clothes
-Undressing panties
-https://civitai.com/models/110871/undressing-panties
-Dolphin shorts
-https://civitai.com/models/123226/dolphin-shorts
-Revealing dress
-https://civitai.com/models/141880/revealing-dress
-Miniature Microbikini
-https://civitai.com/models/56016/miniature-microbikini
-True Buruma
-https://civitai.com/models/22732?modelVersionId=66023
+https://civitai.com/models/93524/adjusting-clothes  
+Undressing panties  
+https://civitai.com/models/110871/undressing-panties  
+Dolphin shorts  
+https://civitai.com/models/123226/dolphin-shorts  
+Revealing dress  
+https://civitai.com/models/141880/revealing-dress  
+Miniature Microbikini  
+https://civitai.com/models/56016/miniature-microbikini  
+True Buruma  
+https://civitai.com/models/22732?modelVersionId=66023  
 
 anaconda:  
 https://www.anaconda.com/download  
