@@ -64,7 +64,7 @@ https://civitai.com/models/7371/rev-animated
 Counterfeit-V3.0  
 https://civitai.com/models/4468/counterfeit-v30  
 SDHK
-https://civitai.com/models/82813/sdhk
+https://civitai.com/models/82813/sdhk  
 PerfectDeliberate-Anime  
 https://civitai.com/models/111274/perfectdeliberate-anime  
 LineCake-A1  
@@ -205,12 +205,12 @@ Miniature Microbikini
 https://civitai.com/models/56016/miniature-microbikini  
 True Buruma  
 https://civitai.com/models/22732?modelVersionId=66023  
-【Character / Art Style】Fashion Girl (SDXL UPDATE)
-https://civitai.com/models/8217?modelVersionId=129198
+【Character / Art Style】Fashion Girl (SDXL UPDATE)  
+https://civitai.com/models/8217?modelVersionId=129198  
 Pure Eros Face  
-https://civitai.com/models/4514/pure-eros-face
+https://civitai.com/models/4514/pure-eros-face  
 
-character
+character  
 Raiden Shogun | Realistic Genshin LORA  
 https://civitai.com/models/11896/raiden-shogun-or-realistic-genshin-lora  
 YaeMiko  
