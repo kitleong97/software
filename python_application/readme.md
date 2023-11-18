@@ -33,8 +33,26 @@ ChilloutMix
 https://civitai.com/models/6424/chilloutmix  
 DreamShaper  
 https://civitai.com/models/4384/dreamshaper  
+DreamShaper XL1.0  
+https://civitai.com/models/112902/dreamshaper-xl10  
 Babes  
 https://civitai.com/models/2220?modelVersionId=95505  
+PerfectDeliberate  
+https://civitai.com/models/24350/perfectdeliberate  
+Perfect World 完美世界  
+https://civitai.com/models/8281/perfect-world  
+Perfect World 完美世界 (fp16/cleaned)  
+https://civitai.com/models/121997/perfect-world-fp16cleaned  
+国风瑞融 GuoFengRealMix  
+https://civitai.com/models/77650/guofengrealmix  
+AnythingElse V4  
+https://civitai.com/models/4855/anythingelse-v4  
+Cetus-Mix  
+https://civitai.com/models/6755/cetus-mix  
+ChikMix  
+https://civitai.com/models/9871/chikmix  
+ChikMix2D  
+https://civitai.com/models/16808/chikmix2d  
 
 anime  
 MeinaMix  
@@ -45,6 +63,15 @@ ReV Animated
 https://civitai.com/models/7371/rev-animated  
 Counterfeit-V3.0  
 https://civitai.com/models/4468/counterfeit-v30  
+SDHK
+https://civitai.com/models/82813/sdhk
+PerfectDeliberate-Anime  
+https://civitai.com/models/111274/perfectdeliberate-anime  
+LineCake-A1  
+https://civitai.com/models/20401/linecake-a1  
+
+
+
 
 realistic  
 Realistic Vision V5.1  
@@ -63,7 +90,8 @@ GhostMix
 https://civitai.com/models/36520/ghostmix  
 DynaVision XL - All-in-one stylized 3D SFW and NSFW output, no refiner needed!  
 https://civitai.com/models/122606?modelVersionId=198962  
-
+明快 CrispMix  
+https://civitai.com/models/38864/crispmix  
 
 Uber Realistic Porn Merge (URPM) [LEGACY Version]  
 https://civitai.com/models/2661/uber-realistic-porn-merge-urpm-legacy-version  
@@ -73,12 +101,10 @@ Hassaku (hentai model)
 https://civitai.com/models/2583/hassaku-hentai-model  
 AbyssOrangeMix2 - NSFW  
 https://civitai.com/models/4449?modelVersionId=8474  
-
-
-
-
-
-
+hassakuHentaiModel_v13-2982  
+https://civitai.com/models/112399/hassakuhentaimodelv13-2982  
+Grapefruit (hentai model)  
+https://civitai.com/models/24383/grapefruit-hentai-model  
 
 
 Lora
@@ -179,6 +205,22 @@ Miniature Microbikini
 https://civitai.com/models/56016/miniature-microbikini  
 True Buruma  
 https://civitai.com/models/22732?modelVersionId=66023  
+【Character / Art Style】Fashion Girl (SDXL UPDATE)
+https://civitai.com/models/8217?modelVersionId=129198
+Pure Eros Face  
+https://civitai.com/models/4514/pure-eros-face
+
+character
+Raiden Shogun | Realistic Genshin LORA  
+https://civitai.com/models/11896/raiden-shogun-or-realistic-genshin-lora  
+YaeMiko  
+https://civitai.com/models/8484/yae-miko-or-realistic-genshin-lora  
+星崎爱央_Hoshizaki Ao_ほしざきあお  
+https://civitai.com/models/59586/hoshizaki-ao  
+
+
+
+
 
 anaconda:  
 https://www.anaconda.com/download  
