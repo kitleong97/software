@@ -1,7 +1,8 @@
 # linux 64 bits (x64/amd64 are 64 bits, because i386 is 32 bits):  
 Min 3 parts:  
 1) efi (also call esp):  
-fat32 (suggest)/ os installer auto default/ vfat  
+~fat32 (suggest)  ***os installer auto default***  
+~vfat  
 Max size: 512MB/ 550MB (suggest 550MB)  
 (why 550MB because of avoid MiB/MB confusion and accidentally creating FAT16)  
 https://askubuntu.com/questions/1313154/how-to-know-the-proper-amount-of-needed-disk-space-for-efi-partition  
