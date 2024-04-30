@@ -1,10 +1,10 @@
 preinstall:
-sudo apt install cmake gcc g++ net-tools vim clang git timeshift  
+sudo apt install cmake gcc g++ net-tools vim clang git zlib1g timeshift  
 
 
 web server:  
 Nginx  
-
+sudo apt-get install nginx
 
 
 apache  
@@ -35,7 +35,8 @@ Mysql ***database program language
 
 
 PostgreSQL  ***database program language  
-
+sudo apt install -y postgresql-common
+sudo /usr/share/postgresql-common/pgdg/apt.postgresql.org.sh
 
 
 Mongodb ***database program language  
